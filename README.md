@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @iglavan
-- STEAM not STEM
+- STEA not STEAM
+
 
 
 <!---
