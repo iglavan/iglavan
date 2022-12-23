@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iglavan
-- 👀 I’m interested in STEAM
+- STEAM not STEM
 
 
 <!---
