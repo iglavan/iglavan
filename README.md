@@ -2,6 +2,11 @@
 STEM not STEAM
 
 
+ [<img src="http://djelatnici.unizd.hr/~iglavan/ico/iglavan.svg">]
+
+
+
+
 
 <!---
 iglavan/iglavan is a ✨ special 
