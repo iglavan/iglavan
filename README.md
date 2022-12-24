@@ -2,7 +2,7 @@
 STEM not STEAM
 
 
- [<img src="http://djelatnici.unizd.hr/~iglavan/ico/iglavan.svg">]
+ [<img src="http://djelatnici.unizd.hr/~iglavan/slike/iglavan/iglavan_more.svg">]
 
 
 
